@@ -28,7 +28,7 @@ This project analyzes job-market data to explore employment trends, salary distr
 
 ### 2. Career Comparison
 
-![Career Comparison](03_Carrer_Comparison.png)
+![Career Comparison](02_Carrer_Comparision.png)
 
 ### 3. Skills and Opportunities
 
